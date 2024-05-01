@@ -1,0 +1,50 @@
+﻿@page "/"
+
+<div>
+    <h3>Peliculas</h3>
+<ListadoPeliculas Peliculas = "ObtenerPeliculas()">
+   
+    
+   </ListadoPeliculas>
+</div>
+
+
+@* <div>
+    <h2>Crear pelicula</h2> *@
+   @*  <EjemploTextbox placeholder="Nombre peli" disabled="true"></EjemploTextbox> *@
+@*    <EjemploTextbox ></EjemploTextbox>  *@
+
+@* </div> *@
+
+
+@* 
+<BindEvento></BindEvento> *@
+
+@* <BindGetSetDemo></BindGetSetDemo> *@
+
+@* <BindAfterDemo></BindAfterDemo> *@
+
+@code{
+    private List<Pelicula> Peliculas;
+
+    // protected override void OnInitialized()
+    // {
+    //     Peliculas =  new List<Pelicula>()
+    //     {
+
+    //       new Pelicula{   Titulo = "Wakanda", FechaLanzamineto = new DateTime(2022,11,11) },
+    //            new Pelicula{   Titulo = "CAPTITAN AMERICA", FechaLanzamineto = new DateTime(2022,11,11) },
+    //             new Pelicula{   Titulo = "Stra wars", FechaLanzamineto = new DateTime(2022,11,11) },
+    //      };    // }
+
+    List<Pelicula> ObtenerPeliculas()
+    {
+        return new List<Pelicula>()
+            {
+              new Pelicula{   Titulo = "Spider-man", FechaLanzamineto = new DateTime(2022,11,11) },
+               new Pelicula{   Titulo = "Batman", FechaLanzamineto = new DateTime(2022,11,11) },
+                new Pelicula{   Titulo = "Stra wars", FechaLanzamineto = new DateTime(2022,11,11) },
+            };
+    }
+
+}

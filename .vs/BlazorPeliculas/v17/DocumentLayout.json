@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|c:\\users\\desarrollo12\\documents\\proyects\\blazorpeliculas\\blazorpeliculas\\client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|solutionrelative:blazorpeliculas\\client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|c:\\users\\desarrollo12\\documents\\proyects\\blazorpeliculas\\blazorpeliculas\\client\\wwwroot\\js\\counter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|solutionrelative:blazorpeliculas\\client\\wwwroot\\js\\counter.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|c:\\users\\desarrollo12\\documents\\proyects\\blazorpeliculas\\blazorpeliculas\\client\\wwwroot\\js\\utilidades.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|solutionrelative:blazorpeliculas\\client\\wwwroot\\js\\utilidades.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|c:\\users\\desarrollo12\\documents\\proyects\\blazorpeliculas\\blazorpeliculas\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|solutionrelative:blazorpeliculas\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|c:\\users\\desarrollo12\\documents\\proyects\\blazorpeliculas\\blazorpeliculas\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|solutionrelative:blazorpeliculas\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|c:\\users\\desarrollo12\\documents\\proyects\\blazorpeliculas\\blazorpeliculas\\client\\helpers\\ijsruntimeextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|solutionrelative:blazorpeliculas\\client\\helpers\\ijsruntimeextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|c:\\users\\desarrollo12\\documents\\proyects\\blazorpeliculas\\blazorpeliculas\\client\\shared\\listadopeliculas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|solutionrelative:blazorpeliculas\\client\\shared\\listadopeliculas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|c:\\users\\desarrollo12\\documents\\proyects\\blazorpeliculas\\blazorpeliculas\\client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|solutionrelative:blazorpeliculas\\client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|c:\\users\\desarrollo12\\documents\\proyects\\blazorpeliculas\\blazorpeliculas\\client\\shared\\listadogenerico.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|solutionrelative:blazorpeliculas\\client\\shared\\listadogenerico.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|c:\\users\\desarrollo12\\documents\\proyects\\blazorpeliculas\\blazorpeliculas\\client\\shared\\peliculaindividual.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20BD1AC7-1697-4B1C-BA28-868A6419325C}|BlazorPeliculas\\Client\\BlazorPeliculas.Client.csproj|solutionrelative:blazorpeliculas\\client\\shared\\peliculaindividual.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.js",
+              "DocumentMoniker": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\wwwroot\\js\\Counter.js",
+              "RelativeDocumentMoniker": "BlazorPeliculas\\Client\\wwwroot\\js\\Counter.js",
+              "ToolTip": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\wwwroot\\js\\Counter.js",
+              "RelativeToolTip": "BlazorPeliculas\\Client\\wwwroot\\js\\Counter.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-01T05:34:24.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazorPeliculas\\Client\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorPeliculas\\Client\\wwwroot\\index.html",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-01T05:07:00.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Utilidades.js",
+              "DocumentMoniker": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\wwwroot\\js\\Utilidades.js",
+              "RelativeDocumentMoniker": "BlazorPeliculas\\Client\\wwwroot\\js\\Utilidades.js",
+              "ToolTip": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\wwwroot\\js\\Utilidades.js",
+              "RelativeToolTip": "BlazorPeliculas\\Client\\wwwroot\\js\\Utilidades.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-05-01T04:56:30.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorPeliculas\\Client\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorPeliculas\\Client\\Pages\\Counter.razor",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T04:51:31.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorPeliculas\\Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\_Imports.razor",
+              "RelativeToolTip": "BlazorPeliculas\\Client\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T04:45:14.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IJSRuntimeExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\Helpers\\IJSRuntimeExtensionMethods.cs",
+              "RelativeDocumentMoniker": "BlazorPeliculas\\Client\\Helpers\\IJSRuntimeExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\Helpers\\IJSRuntimeExtensionMethods.cs",
+              "RelativeToolTip": "BlazorPeliculas\\Client\\Helpers\\IJSRuntimeExtensionMethods.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T04:40:46.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListadoPeliculas.razor",
+              "DocumentMoniker": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\Shared\\ListadoPeliculas.razor",
+              "RelativeDocumentMoniker": "BlazorPeliculas\\Client\\Shared\\ListadoPeliculas.razor",
+              "ToolTip": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\Shared\\ListadoPeliculas.razor",
+              "RelativeToolTip": "BlazorPeliculas\\Client\\Shared\\ListadoPeliculas.razor",
+              "ViewState": "AQIAABsAAAAAAAAAAAAiwCcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T04:32:26.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorPeliculas\\Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazorPeliculas\\Client\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T04:32:26.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListadoGenerico.razor",
+              "DocumentMoniker": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\Shared\\ListadoGenerico.razor",
+              "RelativeDocumentMoniker": "BlazorPeliculas\\Client\\Shared\\ListadoGenerico.razor",
+              "ToolTip": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\Shared\\ListadoGenerico.razor",
+              "RelativeToolTip": "BlazorPeliculas\\Client\\Shared\\ListadoGenerico.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T04:32:26.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PeliculaIndividual.razor",
+              "DocumentMoniker": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\Shared\\PeliculaIndividual.razor",
+              "RelativeDocumentMoniker": "BlazorPeliculas\\Client\\Shared\\PeliculaIndividual.razor",
+              "ToolTip": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Client\\Shared\\PeliculaIndividual.razor",
+              "RelativeToolTip": "BlazorPeliculas\\Client\\Shared\\PeliculaIndividual.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T04:32:26.331Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

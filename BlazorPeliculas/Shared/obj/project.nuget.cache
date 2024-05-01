@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "isLv++o72yEDij3JBf4nEoh3/tEKITp1NsETq3nBLmxAMVDEVyQEXYIWtL5O/QI9fUbNZKxy10wJpQO1GRJGWA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Desarrollo12\\Documents\\proyects\\BlazorPeliculas\\BlazorPeliculas\\Shared\\BlazorPeliculas.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Desarrollo12\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Desarrollo12\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\Desarrollo12\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

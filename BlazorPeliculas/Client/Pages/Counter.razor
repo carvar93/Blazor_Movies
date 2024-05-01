@@ -1,0 +1,70 @@
+﻿@page "/counter"
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+<button class="btn btn-primary" @onclick="IncrementCountJavaScript">Click me Javascript</button>
+
+
+
+<div>
+<ListaPeliculas Peliculas="ObtenerPeliculas()"></ListaPeliculas>
+</div>
+
+
+@code {
+    private int currentCount = 0;
+    private static int currentCountStatic = 0;
+
+    [Inject] IJSRuntime js { get; set; } = null!;
+
+
+    IJSObjectReference? modulo;
+
+
+
+    [JSInvokable]
+    public async Task IncrementCount()
+    {
+        modulo = await js.InvokeAsync<IJSObjectReference>("import", "./js/Counter.js");
+        await modulo.InvokeVoidAsync("mostrarAlerta","hello world");
+
+        currentCount++;
+        currentCountStatic = currentCount;
+        await js.InvokeVoidAsync("pruebaPuntoNetStatic");
+
+
+    }
+
+
+    [JSInvokable]
+    public static Task<int> ObtenerCurrentCount()
+    {
+        return Task.FromResult(currentCountStatic);
+    }
+
+
+    private async Task IncrementCountJavaScript()
+    {
+         // en el metodo create le puedo pasar una clase pero le paso this p[ara que tenga acceso al componente]
+        await js.InvokeVoidAsync("pruebaPuntoNetInstancia",DotNetObjectReference.Create(this));
+    }
+
+
+
+    List<Pelicula> ObtenerPeliculas()
+    {
+        return new List<Pelicula>()
+            {
+              new Pelicula{   Titulo = "Spider-man", FechaLanzamineto = new DateTime(2022,11,11) },
+               new Pelicula{   Titulo = "Batman", FechaLanzamineto = new DateTime(2022,11,11) },
+                new Pelicula{   Titulo = "Stra wars", FechaLanzamineto = new DateTime(2022,11,11) },
+            };
+    }
+
+}

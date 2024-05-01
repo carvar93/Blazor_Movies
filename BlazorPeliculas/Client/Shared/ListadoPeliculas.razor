@@ -1,0 +1,59 @@
+﻿@inject IJSRuntime js
+
+<div>
+    <h3>Pelicula</h3>
+
+   
+        @* <input type="checkbox" @onchange="@(()=>MostrarBotones = !MostrarBotones)"/> *@
+        <input type="checkbox" @bind="MostrarBotones" />
+        <span>
+            Mostar botones
+        </span>
+   
+
+
+    <ListadoGenerico Listado="Peliculas">
+        <HayRegistros Context="pelicula">
+            <PeliculaIndividual Pelicula="pelicula"
+                                EliminarPelicula="EliminarPelicula"
+                                MostrarBotones="MostrarBotones">
+
+            </PeliculaIndividual>
+        </HayRegistros>
+    </ListadoGenerico>
+
+    
+</div>
+
+@code {
+
+    [Parameter]
+    [EditorRequired]
+    public List<Pelicula>? Peliculas { get; set; }
+    bool MostrarBotones = false;
+
+
+
+    private async Task EliminarPelicula(Pelicula pelicula)
+    {
+
+        // utilizando directamente 
+       // var confirmado = await js.InvokeAsync<bool>("confirm", $"desea borrar la pelicula {pelicula.Titulo}?");
+       
+       // estoy utilizando la clase helpers
+       var confirmado = await js.Confirm($"desea borrar la pelicula {pelicula.Titulo}?");
+
+
+
+        if (confirmado)
+        {
+        Console.WriteLine("Eliminando una pelicula");
+
+        Peliculas!.Remove(pelicula);
+            
+        }
+        
+    }
+
+
+}
